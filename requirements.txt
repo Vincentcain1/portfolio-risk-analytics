@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+yfinance
+nbformat
+nbconvert
+pytest
